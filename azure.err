@@ -1,0 +1,9 @@
+Mon Sep 29 2014 16:46:11 GMT-0700 (Pacific Daylight Time):
+{ [Error: The subscription '56931e7d-9d87-4f1e-b04e-1b75c2ac4a9c' was not found. Please check your spelling, or use the azure login command to set your subscription.]
+  stack: [Getter/Setter],
+  __frame: undefined,
+  rawStack: [Getter] }
+Error: The subscription '56931e7d-9d87-4f1e-b04e-1b75c2ac4a9c' was not found. Please check your spelling, or use the azure login command to set your subscription.
+    at Profile._.extend.getSubscription (C:\Users\Richard\AppData\Roaming\npm\node_modules\azure-cli\lib\util\profile\profile.js:183:15)
+    at __3 (C:\Users\Richard\AppData\Roaming\npm\node_modules\azure-cli\lib\commands\account._js:69:29)
+
